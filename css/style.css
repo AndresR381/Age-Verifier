@@ -1,0 +1,27 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+main {
+    padding: 40px;
+    margin-left: 300px;
+}
+
+form {
+    border: 3px solid black;
+    padding: 25px;
+}
